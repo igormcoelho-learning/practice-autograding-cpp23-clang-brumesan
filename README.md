@@ -15,6 +15,8 @@ If you want to practice this activity, just follow this link: (TODO: update)
 
 **TODO - Please put your name in this README**
 
+BRUNO MENEZES DOS SANTOS
+
 ## Problem Description
 
 This part describes the activity. This example activity consists in fixing two functions: one that adds two integers, and another that multiplies two integers.
