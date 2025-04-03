@@ -12,10 +12,9 @@ export int mul(int a, int b);
 // implementations
 
 int add(int a, int b) {
-    return a + b;
+    return a + b; 
 }
 
-// Função que multiplica dois números
 int mul(int a, int b) {
     return a * b;
 }
