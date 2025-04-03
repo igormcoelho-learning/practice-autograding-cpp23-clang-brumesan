@@ -11,9 +11,9 @@ export int mul(int a, int b);
 // ===============
 // implementations
 
-#include <iostream> 
-#include <string>  
-#include <locale.h>
+//#include <iostream> 
+//#include <string>  
+//#include <locale.h>
 
 using namespace std;
 
@@ -38,9 +38,9 @@ return 0;
 
 // Exercise 2: implements function 'mul', that multiplies two numbers
 
-#include <iostream> 
-#include <string>  
-#include <locale.h>
+//#include <iostream> 
+//#include <string>  
+//#include <locale.h>
 
 using namespace std;
 // declara a função add
